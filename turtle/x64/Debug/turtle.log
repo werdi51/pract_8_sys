@@ -1,0 +1,4 @@
+﻿  turtle.cpp
+C:\Users\st310-03\Desktop\pract_8_sys-main\turtle\turtle.cpp(17,9): warning C4101: number: неиспользованная локальная переменная
+C:\Users\st310-03\Desktop\pract_8_sys-main\turtle\turtle.cpp(152,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  turtle.vcxproj -> C:\Users\st310-03\Desktop\pract_8_sys-main\turtle\x64\Debug\turtle.exe
