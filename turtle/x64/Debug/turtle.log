@@ -1,3 +1,0 @@
-﻿  turtle.cpp
-C:\Users\st310-03\Desktop\hvorenkov\turtle\turtle.cpp(61,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-  turtle.vcxproj -> C:\Users\st310-03\Desktop\hvorenkov\turtle\x64\Debug\turtle.exe
